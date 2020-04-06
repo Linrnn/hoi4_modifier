@@ -1,0 +1,10 @@
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\bin\Debug\hoi4_modifier.exe.config
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\bin\Debug\hoi4_modifier.exe
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\bin\Debug\hoi4_modifier.pdb
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\mainForm.resources
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\hoi4_modifier.Properties.Resources.resources
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\hoi4_modifier.csproj.GenerateResource.cache
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\hoi4_modifier.csproj.CoreCompileInputs.cache
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\hoi4_modifier.exe
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\hoi4_modifier.pdb
+F:\Lin\Microsoft Visual Studio\hoi4_modifier\hoi4_modifier\obj\Debug\hoi4_modifier.csprojAssemblyReference.cache
